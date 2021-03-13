@@ -4,7 +4,7 @@
       "packageName": "com.myapp",
       "nativeLanguage": "en"
     },
-    "jhipsterVersion": "6.10.5",
+    "jhipsterVersion": "5.8.2",
     "applicationType": "monolith",
     "baseName": "myapp",
     "packageName": "com.myapp",
@@ -38,6 +38,7 @@
     "nativeLanguage": "en",
     "languages": ["en"],
     "blueprints": [],
-    "reactive": true
+    "reactive": true,
+    "enableHibernateCache": false
   }
 }
